@@ -8,7 +8,7 @@ import tempfile
 
 __version__ = '0.0.5'
 __author__ = 'Marco Lovato'
-__author_username__ = 'marco.lovato'
+__author_username__ = 'lovato'
 __author_email__ = 'maglovato@gmail.com'
 __description__ = 'A command-line tool to create projects \
                   from templates, to start your python work.'
